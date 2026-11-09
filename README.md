@@ -41,9 +41,5 @@
 
 此軟體完全由 Zeke 進行開發 如有 Bug 歡迎通知我
 
-Github: [Zeke](https://github.com/JikeLuo)
-
-E-Mail: traveller87072@gmail.com
-
-Version: 0.22.3
+Github: [Zeke](https://github.com/ZekeGan)
 
